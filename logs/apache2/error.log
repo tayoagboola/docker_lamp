@@ -1,0 +1,11 @@
+[Fri Apr 19 01:17:24.793882 2024] [ssl:warn] [pid 1] AH01882: Init: this version of mod_ssl was compiled against a newer library (OpenSSL 3.0.13 30 Jan 2024 (OpenSSL 3.0.11 19 Sep 2023), version currently loaded is 0x300000B0) - may result in undefined or erroneous behavior
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.23.0.4. Set the 'ServerName' directive globally to suppress this message
+[Fri Apr 19 01:17:24.834211 2024] [ssl:warn] [pid 1] AH01882: Init: this version of mod_ssl was compiled against a newer library (OpenSSL 3.0.13 30 Jan 2024 (OpenSSL 3.0.11 19 Sep 2023), version currently loaded is 0x300000B0) - may result in undefined or erroneous behavior
+[Fri Apr 19 01:17:24.837803 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.6 OpenSSL/3.0.11 configured -- resuming normal operations
+[Fri Apr 19 01:17:24.838362 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Fri Apr 19 01:26:38.041661 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Fri Apr 19 01:27:00.245878 2024] [ssl:warn] [pid 1] AH01882: Init: this version of mod_ssl was compiled against a newer library (OpenSSL 3.0.13 30 Jan 2024 (OpenSSL 3.0.11 19 Sep 2023), version currently loaded is 0x300000B0) - may result in undefined or erroneous behavior
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.24.0.4. Set the 'ServerName' directive globally to suppress this message
+[Fri Apr 19 01:27:00.280001 2024] [ssl:warn] [pid 1] AH01882: Init: this version of mod_ssl was compiled against a newer library (OpenSSL 3.0.13 30 Jan 2024 (OpenSSL 3.0.11 19 Sep 2023), version currently loaded is 0x300000B0) - may result in undefined or erroneous behavior
+[Fri Apr 19 01:27:00.283800 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.6 OpenSSL/3.0.11 configured -- resuming normal operations
+[Fri Apr 19 01:27:00.285380 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
